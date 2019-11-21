@@ -1,0 +1,9 @@
+d:\Рабочий стол\Ялпута проекты\Zadachi\Zadachi\bin\Debug\Zadachi.exe.config
+d:\Рабочий стол\Ялпута проекты\Zadachi\Zadachi\bin\Debug\Zadachi.exe
+d:\Рабочий стол\Ялпута проекты\Zadachi\Zadachi\bin\Debug\Zadachi.pdb
+d:\Рабочий стол\Ялпута проекты\Zadachi\Zadachi\obj\Debug\Zadachi.csprojAssemblyReference.cache
+d:\Рабочий стол\Ялпута проекты\Zadachi\Zadachi\obj\Debug\Zadachi.Form1.resources
+d:\Рабочий стол\Ялпута проекты\Zadachi\Zadachi\obj\Debug\Zadachi.Properties.Resources.resources
+d:\Рабочий стол\Ялпута проекты\Zadachi\Zadachi\obj\Debug\Zadachi.csproj.GenerateResource.cache
+d:\Рабочий стол\Ялпута проекты\Zadachi\Zadachi\obj\Debug\Zadachi.exe
+d:\Рабочий стол\Ялпута проекты\Zadachi\Zadachi\obj\Debug\Zadachi.pdb
